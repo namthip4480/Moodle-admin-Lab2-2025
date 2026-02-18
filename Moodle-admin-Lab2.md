@@ -167,8 +167,7 @@ Site administration > Courses > Manage courses and categories
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4ef55fc3-eb8b-4050-bd16-116c5989050f" />
 
 ```
-**บันทึกรูปหน้า Category:** 
-
+ # บันทึกรูปหน้า Category
 ```
 
 ### 3: สร้างและจัดการ Cohorts 
