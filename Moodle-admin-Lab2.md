@@ -391,6 +391,9 @@ Data settings:
 ```
  # บันทึกรูปหน้า Users
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/480f4718-aa13-4d99-959a-23660c748dfb" />
+
+
 
 **Upload Users (Teacher):**
 ทำการ Upload Users ที่เป็น Teaher โดยใช้ไฟล์ teachers_sample.csv
@@ -399,6 +402,8 @@ Data settings:
 ```
  # บันทึกรูปหน้า Users
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f45d8176-8ac2-4586-9e1a-d264da04ce5e" />
+
 ---
 
 ## 3. Upload Courses 
@@ -439,6 +444,8 @@ Reset รหัสผ่านทั้งหมด (ไม่ต้องสร
 ```
  # บันทึกรูปหน้า Course
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a7252a30-342e-4c98-abd9-894253027e3f" />
+
 
 #### 5. ตรวจสอบผลลัพธ์
 
@@ -476,6 +483,8 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 ```
  # บันทึกรูปหน้า Enroll
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/79743dbb-d136-4510-8f8c-336432fd07f5" />
+
 
 **Enroll นักเรียนผ่าน Cohort sync:**
 - หน้า Participants > Enrolment methods  (จากเดิมจะเลือกเมนูเป็น Enrolled users ไว้)
@@ -487,12 +496,16 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 ```
  # บันทึกรูปหน้า Enroll
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f5a8e6e-f39b-4ece-9e65-2ce782931fe3" />
+
 
 ```
 **บันทึกรูปหน้า Course ที่ Enrol User แล้ว :** 
 ```
  # บันทึกรูปหน้า Course ที่ Enrol User แล้ว
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a6ccd32b-5028-4131-97cf-07ad1d879dc2" />
+
 
 #### 6.2 เพิ่ม Activities
 **1) ทดสอบ Login เข้าระบบด้วย User Teacher ที่ได้สร้างขึ้น
@@ -525,6 +538,7 @@ Grade to pass: 60%
 ```
  # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9d0f5dd2-3186-4dd7-9038-0e8ee4159216" />
 
 
 ## คำถามท้ายการทดลอง
